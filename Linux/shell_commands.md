@@ -7,7 +7,7 @@
 
 **Example: Installing Python**
 ```
-sudo ./configure --enable-optimizations --with-lto  # configure Python as normal
+sudo ./configure --enable-optimizations --with-lto  # configure Python as usual
 sudo checkinstall -D --fstrans=no make altinstall   # prepend make commands with checkinstall
 
 sudo dpkg -r python_3.8.2-1_amd64.deb               # remove python from /usr/local
