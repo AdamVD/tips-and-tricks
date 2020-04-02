@@ -1,6 +1,10 @@
 # JetBrains Keyboard Shortcuts
 
+## Editor
+#### `Ctrl+Shift+Enter` - Complete Statement
+Attempts to add the necessary braces/brackets/semicolons to complete the current statement.
+
 ## Version Control
 
-### `ctrl+k` - commit window:
-`ctrl+alt+k` - commit and push
+### `Ctrl+K` - commit window:
+`Ctrl+Alt+K` - commit and push
