@@ -6,5 +6,5 @@ Attempts to add the necessary braces/brackets/semicolons to complete the current
 
 ## Version Control
 
-### `Ctrl+K` - commit window:
+### `Ctrl+K` - Commit:
 `Ctrl+Alt+K` - commit and push
