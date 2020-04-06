@@ -3,7 +3,7 @@
 ### checkinstall
 **The issue:** Some applications/libraries that you `make` from source do not contain "uninstall" targets. You would need to manually remove the installed files from your system.
 
-**Solution:** Use the tool `checkinstall`, which keeps track of installed files via `make` or another tool and builds a package out of it. The package may then be used for uninstall purposes. _These packages aren't meant for distribution purposes._
+**Solution:** Use the tool `checkinstall`, which keeps track of installed files via `make` or another tool and builds a package out of it. The package may then be used for uninstalling the app/lib. _These packages aren't meant for distribution purposes._
 
 **Example: Installing Python**
 ```
